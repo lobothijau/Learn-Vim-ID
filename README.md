@@ -10,23 +10,23 @@ Panduan ini ditulis baik untuk pemula maupun pengguna Vim lama. Dimulai dengan p
 
 ## I Want More Vim Tips!
 
-Follow [@learnvim](https://twitter.com/learnvim) for updates, Vim tips, etc.
+Ikuti [@learnvim](https://twitter.com/learnvim) untuk tips Vim, *update* dan informasi lainnya.
 
 ## Support This Project
 
-This guide is and will always be free.
+Panduan ini akan selalu gratis.
 
-If you want to financially support this project, you can [purchase this guide on Leanpub](https://leanpub.com/learnvim).
+Jika pembaca ingin membantu *project* ini secara finansial, silahkan [beli versi digital di Leanpub](https://leanpub.com/learnvim).
 
 <a href="https://leanpub.com/learnvim"><img src="images/learn-vim-cover.png" width="100"></a>
 
-## Table Of Contents
+## Daftar Isi
 
-### Prologue
+### Pendhuluan
 
 - [Ch 0     - Read This First](./ch00_read_this_first.md)
 
-### Part 1: Learn Vim the Smart Way
+### Bagian 1: Learn Vim the Smart Way
 
 - [Ch 1     - Starting Vim](./ch01_starting_vim.md)
 - [Ch 2     - Buffers, Windows, and Tabs](./ch02_buffers_windows_tabs.md)
@@ -50,13 +50,13 @@ If you want to financially support this project, you can [purchase this guide on
 - [Ch 20    - Views, Sessions, and Viminfo](./ch20_views_sessions_viminfo.md)
 - [Ch 21    - Multiple File Operations](./ch21_multiple_file_operations.md)
 
-### Part 2: Customize Vim the Smart Way
+### Bagian 2: Customize Vim the Smart Way
 
 - [Ch 22 - Vimrc](./ch22_vimrc.md)
 - [Ch 23 - Vim Packages](./ch23_vim_packages.md)
 - [Ch 24 - Vim Runtime](./ch24_vim_runtime.md)
 
-### Part 3: Learn Vimscript the Smart Way
+### Bagian 3: Learn Vimscript the Smart Way
 
 - [Ch 25 - Vimscript Basic Data Types](./ch25_vimscript_basic_data_types.md)
 - [Ch 26 - Vimscript Conditionals And Loops](./ch26_vimscript_conditionals_and_loops.md)
@@ -64,12 +64,13 @@ If you want to financially support this project, you can [purchase this guide on
 - [Ch 28 - Vimscript Functions](./ch28_vimscript_functions.md)
 - [Ch 29 - Plugin Example: Writing a Titlecase Plugin](./ch29_plugin_example_writing-a-titlecase-plugin.md)
 
-## Translations
+## Terjamahan
 - [Learn-Vim 中文翻译](https://github.com/wsdjeg/Learn-Vim_zh_cn)(`zh-CN`)
 - [Learn-Vim Spanish](https://github.com/victorhck/learn-Vim-es)(`es`)
 
-## License & Copyright
-The materials here are all © 2020-2021 Igor Irianto.
+## Lisensi & Hak Cipta
+
+Konten dalam panduan ini merupakan hak cipta dari © 2020-2021 Igor Irianto.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><br />
 
